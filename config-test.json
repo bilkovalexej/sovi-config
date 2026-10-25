@@ -1,0 +1,30 @@
+{
+  "schemaVersion": 1,
+  "revision": 1,
+  "update": {
+    "versionCode": 999002,
+    "versionName": "Тест JSON 2",
+    "changes": [
+      "Тест: сведения загружены из JSON",
+      "Тест: переход в RuStore"
+    ],
+    "storeUrl": "https://www.rustore.ru/catalog/app/ru.scitayka.app",
+    "releases": [
+      {
+        "versionCode": 999001,
+        "versionName": "Тест JSON 1",
+        "changes": [
+          "Тест: изменения пропущенного выпуска"
+        ]
+      },
+      {
+        "versionCode": 999002,
+        "versionName": "Тест JSON 2",
+        "changes": [
+          "Тест: сведения загружены из JSON",
+          "Тест: переход в RuStore"
+        ]
+      }
+    ]
+  }
+}
