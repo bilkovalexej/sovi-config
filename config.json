@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "revision": 2,
+  "revision": 3,
   "update": {
     "versionCode": 107,
     "versionName": "0.6.36",
@@ -21,5 +21,15 @@
         ]
       }
     ]
+  },
+  "resultAds": {
+    "countResults": true,
+    "countSprintResults": true,
+    "additionResults": true,
+    "additionSprintResults": true,
+    "subtractionResults": true,
+    "subtractionSprintResults": true,
+    "warmupResults": true,
+    "warmupSprintResults": true
   }
 }

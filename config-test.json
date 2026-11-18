@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "revision": 1,
+  "revision": 2,
   "update": {
     "versionCode": 999002,
     "versionName": "Тест JSON 2",
@@ -26,5 +26,15 @@
         ]
       }
     ]
+  },
+  "resultAds": {
+    "countResults": true,
+    "countSprintResults": true,
+    "additionResults": true,
+    "additionSprintResults": true,
+    "subtractionResults": true,
+    "subtractionSprintResults": true,
+    "warmupResults": true,
+    "warmupSprintResults": true
   }
 }
